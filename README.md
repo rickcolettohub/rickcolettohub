@@ -8,4 +8,4 @@
 
 # Techs
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,js,nodejs,typescript,cs,cpp,react,vite,npm,unreal,godot,unity,blender,ai,ps,ae,pr,html,css,obsidian&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,js,nodejs,typescript,cs,cpp,react,vite,npm,unreal,godot,unity,blender,ai,ps,ae,pr,html,css,obsidian)](https://skillicons.dev)
